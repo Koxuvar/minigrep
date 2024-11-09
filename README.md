@@ -2,4 +2,6 @@
 
 ---
 
-Working my way through the rust book. 
+A little minigrep cli written in rust. Straight out of the Rust book.
+
+
